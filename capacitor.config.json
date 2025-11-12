@@ -1,0 +1,9 @@
+{
+  "appId": "com.mdashfaq.mart",
+  "appName": "MART Mail Generator",
+  "webDir": "dist",
+  "server": {
+    "url": "https://rovermdashfaq.github.io/MART-Mail-Generator/",
+    "cleartext": true
+  }
+}
